@@ -1,0 +1,1 @@
+UMa entrega de um mini projeto de um diagrama para a criação de um banco de dados em SQL, feito no SQL workbench
